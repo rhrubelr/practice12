@@ -1,0 +1,382 @@
+
+*{
+ padding:0;
+ margin:0;
+ box-sizing:border-box;
+}
+
+.navbar{
+	height:80px;
+	width:100%;
+	background:black;
+	color:white;
+}
+
+.nav-item{
+	width:95%;
+	height:100px;
+	display:inline-block;
+	font-size:2rem;
+	word-spacing:30px;
+}
+.search{
+	display:inline-block;
+	width:5%;
+	height:100px;
+	font-size:2rem;
+}
+i{
+	color:white;
+	padding:20px;
+}
+
+.nav-bar:hover{
+	border:2px solid black;
+	background:#dee0e0;
+	
+}
+
+.part1{
+	height:400px;
+	width:100%;
+	background:white;
+	text-align:center;
+	padding-top:80px;
+	line-height:85px;
+}
+
+.jane-bloglife{
+	font-size:5rem;
+}
+.welcome-to-blog{
+	font-size:2rem;
+}
+.jane-world{
+	background:black;
+	color:white;
+}
+
+.part2{
+	height:700px;
+	width:100%;
+	background-image:url(backgroundpic.jpg);
+	background-repeat:no-repeat;
+	background-position:cover;
+	padding:300px 0 0 20px;
+	line-height:80px;
+	
+}
+
+.janes{
+	font-size:2.8rem;
+	color:white;
+	
+}
+.fashion-blog{
+	font-size:4rem;
+	color:white;
+	
+}
+.subcribe1{
+	padding:20px;
+	font-size:1.5rem;
+}
+
+.subcribe1:hover{
+	background:#b4b5b3;
+}
+
+.section1{
+	height:3000px;
+	width:100%;
+	
+}
+.sub-section{
+	     width:95%;
+		 background:white;
+		 height:3000px;
+		 margin-inline:auto;
+	
+}
+
+.part3{
+	width:60%;
+	display:inline-block;
+	box-sizing:border-box;
+
+}
+.title{
+	text-align:center;
+	padding-bottom:10px;
+}
+.title-description{
+	text-align:center;
+	padding-bottom:10px;
+}
+.picture1{
+	width:750px;
+	padding-bottom:20px;
+}
+
+.like:hover{
+	background:gray;
+	color:black;
+}
+
+.liked{
+	color:black;
+	font-size:2rem;
+	border:none;
+}
+.like{
+ border:none;
+}
+
+.second{
+
+}
+
+.title-heading{
+	text-align:center;
+}
+.title-descrip{
+	text-align:center;
+}
+
+
+
+
+
+
+.part3-right{
+	width:25%;
+	display:inline-block;
+	box-sizing:border-box;
+}
+.part3-text{
+	
+}
+
+.picture2{
+	width:510px;
+}
+.my-name{
+	text-align:center;
+	padding-bottom:10px;
+	color:white;
+	width:510px;
+	background:black;
+}
+.just-me{
+	color:white;
+	padding:30px;
+	font-size:1.5rem;
+	margin-bottom:4px;
+	width:510px;
+	background:black;
+}
+.popular{
+	background:black;
+	padding:30px;
+	color:white;
+	width:510px;
+	
+}
+.smoke{
+	height:130px;
+	width:510px;
+	background:white;
+	padding:10px 0 0 10px;
+}
+
+.avature1{
+	display:inline-block;
+	width:110px;
+	height:100px;
+	padding-bottom:10px;
+	padding-top:10px;
+}
+.avature1-text{
+	display:inline-block;
+	width:300px;
+	height:100px;
+}
+
+.smoke:hover{
+	background:gray;
+}
+
+.sweat{
+	height:120px;
+	width:510px;
+	background:white;
+	padding:10px 0 0 10px;
+}
+.avature2{
+	display:inline-block;
+}
+.sweaters{
+	display:inline-block;
+}
+
+.sweat:hover{
+	background:gray;
+}
+.work{
+	background:white;
+	width:510px;
+	height:120px;
+	padding:10px 0 0 10px;
+}
+.avature3{
+	display:inline-block;
+}
+.avature3-text{
+	display:inline-block;
+}
+.work:hover{
+	background:gray;
+}
+.avature4{
+	height:120px;
+	width:510px;
+	background:white;
+	padding:10px 0 0 10px;
+}
+
+
+.avature-img{
+	display:inline-block;
+}
+.Trends{
+	display:inline-block;
+}
+.avature4:hover{
+	background:gray;
+}
+
+.advertise{
+	background:black;
+	padding:30px;
+	color:white;
+	width:510px;	
+}
+
+.your-ad{
+	background:#e4e6eb;
+	padding:50px;
+	width:510px;
+	height:250px;
+	outline:5px solid #f0f9fa;
+}
+.ad-text{
+	text-align:center;
+	padding-top:50px;
+}
+.country{
+	height:200px;
+	width:510px;
+	padding:5px;
+	padding-left:50px;
+	padding-top:20px;
+	word-spacing:8px;
+	line-height:40px;
+	text-align:left;
+	text-decoration:none;
+	background:white;
+}
+.country-list{
+	text-decoration:none;
+	color:black;
+}
+.fashion{
+	background:black;
+	color:white;
+	display:inline-block;
+	padding:0 5px 0 5px;
+}
+.pic4{
+	height:500px;
+	width:510px;
+	background:white;
+}
+.smallpic1{
+	display:inline-block;
+	padding:10px 10px 10px 10px;
+}
+.smallpic2{
+	display:inline-block;
+	padding:10px 10px 10px 10px;
+}
+.smallpic3{
+	display:inline-block;
+	padding:10px 10px 10px 10px;
+}
+.smallpic4{
+	display:inline-block;
+	padding:10px 10px 10px 10px;
+}
+.follow-contact{
+	height:80px;
+	width:510px;
+	background:white;
+	color:black;
+}
+.black{
+	color:black;
+	font-size:1.5rem;
+}
+.black:hover{
+	color:#c0c4c3;
+}
+.last-part{
+	height:200px;
+	width:510px;
+
+}
+.email-text{
+	padding:20px;
+}
+input{
+	width:100%;
+	padding:20px;
+}
+.submit{
+	text-align:center;
+	width:100%;
+	padding:15px;
+	color:white;
+	background:red;
+	font-size:1.5rem;
+}
+
+.footer{
+	width:100%;
+	height:250px;
+	background:#575956;
+	margin-top:20px;
+}
+
+.last-button{
+	background:black;
+	padding-right:5px;
+	color:white;
+	margin:20px 0 0 10px;
+}
+
+.last-button:hover{
+	background:#b9bab8;
+}
+
+.w3{
+	color:white;
+	margin:20px 0 0 15px;
+}
+
+.css{
+	color:white;
+}
+.top{
+	text-decoration:none;
+	color:white;
+}
